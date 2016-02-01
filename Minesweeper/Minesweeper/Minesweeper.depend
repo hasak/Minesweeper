@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1452509852 source:c:\users\juka\desktop\minesweeper\minesweeper\main.cpp
+	<iostream>
+	<ctime>
+	<fstream>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+
+1452541579 source:c:\users\juka\desktop\folders\ius\introduction to programming\minsweeper\minesweeper\minesweeper\main.cpp
+	<iostream>
+	<ctime>
+	<fstream>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+
